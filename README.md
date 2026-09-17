@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Ala’a Tarawneh, an **Artificial Intelligence & Data Science student** at 
-**Al-Hussein Technical University (HTU), Jordan**, currently maintaining a **3.75/4.00 GPA**.
+**Al-Hussein Technical University (HTU), Jordan**, currently maintaining a **3.77/4.00 GPA**.
 
 I’m interested in building intelligent systems that combine data, machine learning,
 and software to solve practical problems. My academic journey has given me hands-on
